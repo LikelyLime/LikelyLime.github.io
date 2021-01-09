@@ -3,8 +3,8 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.sihun</groupId>
-	<name>CGV_homepage</name>
+	<groupId>com.korea</groupId>
+	<name>Ex_1216_SpringBoardH</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
@@ -201,5 +201,5 @@
 			</plugin>
 		</plugins>
 	</build>
-	<artifactId>cgv</artifactId>
+	<artifactId>bbsh</artifactId>
 </project>
