@@ -39,7 +39,7 @@
 	<form>
 		<div id="login_nav">
 			<ul>
-				<li><a href="#">login</li>
+				<li><a href="login_form">login</li>
 				<li><a href="#">회원가입</li>
 				<li><a href="#">MY CGV</li>
 				<li><a href="#">VIP LOUNGE</li>

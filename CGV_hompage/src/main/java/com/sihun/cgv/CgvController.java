@@ -28,4 +28,8 @@ public class CgvController {
 	public String home() {
 		return "cgv_home.jsp";
 	}
+	@RequestMapping("login_form")
+	public String login() {
+		return "login_form.jsp";
+	}
 }
